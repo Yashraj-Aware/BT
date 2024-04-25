@@ -1,0 +1,29 @@
+/* BelowNavbarSection.css */
+
+.below-navbar-section {
+    background-size: cover;
+    background-position: center;
+    height: 680px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content {
+    background-color: rgba(255, 255, 255, 0.8); /* White background with opacity */
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    position: relative; /* Add position relative */
+  }
+  
+  .content h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+
+
+
+  
